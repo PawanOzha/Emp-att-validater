@@ -1,0 +1,5 @@
+# The script stores them at:
+
+# Linux/macOS: ~/.face_attendance/profile.json
+
+# Windows: C:\Users\<you>\.face_attendance\profile.json
